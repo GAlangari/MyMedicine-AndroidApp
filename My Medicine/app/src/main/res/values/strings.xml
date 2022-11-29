@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Medicine</string>
+
+    <string-array name="medicines">
+        <item>Novartis</item>
+        <item>Amaryl</item>
+        <item>Actrapid</item>
+    </string-array>
+
+    <string-array name="doses">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
